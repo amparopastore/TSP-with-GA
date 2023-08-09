@@ -1,6 +1,6 @@
-Florida Atlantic University - CAP 4630 - Intro. to A.I.
-Dr. Marques
-June 21, 2023
+Florida Atlantic University - CAP 4630 - Intro. to A.I. <br>
+Dr. Marques <br>
+June 21, 2023 <br>
 Amparo Godoy Pastore
 
 # Project 2: TSP using GA
